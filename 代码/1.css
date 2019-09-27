@@ -1,0 +1,47 @@
+@charset "UTF-8";
+#div1{
+	border-style:dotted;
+	color:#808000;
+}
+#div2{
+	border: double 5px gray;
+	background: rgba(255,139,139,0.6);
+	position: absolute;
+	left:150px;
+	top:150px;
+}
+#div3{
+	border: double 5px gray;
+	background: rgba(255,139,139,0.6);
+	position: absolute;
+	left: 380px;
+	top: 150px;
+}
+#div4{
+	border: double 5px gray;
+	background: rgba(255,139,139,0.6);
+	position: absolute;
+	left: 215px;
+	top:420px;
+}
+#div5{
+	border: double 5px gray;
+	background: rgba(255,139,139,0.6);
+	position: absolute;
+	left: 600px;
+	top: 150px;
+}
+#div6{
+	position: absolute;
+	left: 570px;
+	top: 900px;
+}
+#div9{
+	position:absolute;
+	left:210px;
+}
+#div10{
+	position:absolute;
+	left:210px;
+	top:1300px;
+}
